@@ -1,0 +1,28 @@
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\123 DDoS Panel.exe
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\123 DDoS Panel.deps.json
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\123 DDoS Panel.runtimeconfig.json
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\123 DDoS Panel.dll
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\123 DDoS Panel.pdb
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\123 DDoS Panel.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\_123_DDoS_Panel.Form1.resources
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\_123_DDoS_Panel.Properties.Resources.resources
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\123 DDoS Panel.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\123 DDoS Panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\123 DDoS Panel.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\123 DDoS Panel.AssemblyInfo.cs
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\123 DDoS Panel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\123 DDoS Panel.dll
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\refint\123 DDoS Panel.dll
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\123 DDoS Panel.pdb
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\123 DDoS Panel.genruntimeconfig.cache
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\ref\123 DDoS Panel.dll
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\_123_DDoS_Panel.graph.resources
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\123 DDoS Panel.csproj.CopyComplete
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\_123_DDoS_Panel.Loading.resources
+C:\Users\PC\Desktop\123 DDoS Panel\123 DDoS Panel\123 DDoS Panel\obj\Debug\net6.0-windows\_123_DDoS_Panel.Moretools.resources

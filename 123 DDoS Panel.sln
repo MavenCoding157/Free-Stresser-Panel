@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDoS Panel", "123 DDoS Panel\DDoS Panel.csproj", "{10874C7F-E03B-4401-A8A5-3543EB0BBCC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10874C7F-E03B-4401-A8A5-3543EB0BBCC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10874C7F-E03B-4401-A8A5-3543EB0BBCC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10874C7F-E03B-4401-A8A5-3543EB0BBCC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10874C7F-E03B-4401-A8A5-3543EB0BBCC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17713306-D0C9-4258-BE7B-78F91A09C9A8}
+	EndGlobalSection
+EndGlobal
